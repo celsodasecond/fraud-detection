@@ -1,0 +1,5 @@
+streamlit
+numpy
+picke
+re
+ast
