@@ -4,3 +4,4 @@ pickle
 re
 ast
 scikit-learn
+sklearn
